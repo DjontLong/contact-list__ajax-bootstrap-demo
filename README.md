@@ -1,3 +1,5 @@
+https://djontlong.github.io/contact-list__ajax-bootstrap-demo/
+
 <h1>Динамическая загрузка контента через JQuery+ AJAX</h1>
 <p></p>
 
